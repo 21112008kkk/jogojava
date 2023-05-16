@@ -1,2 +1,2 @@
-# jogojava
-jogo do java
+# pongtwo
+Jogo pong no JavaScript
